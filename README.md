@@ -13,6 +13,8 @@ TagLib For Valac
 
 * meson
 * libtag1-dev
+* libgdk-pixbuf2.0-dev
+* libglib2.0-dev
 
 ## Building
 Run `meson` to configure the build environment and then `ninja` to build and run automated tests
