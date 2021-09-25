@@ -4,8 +4,8 @@ TagLib For Valac
 ## Mp3, Mp4, Flac.
 ## APP used this libs.
 
-    ## APP used this libs.
-    
+### NIKI Player.
+
 [![Get it on AppCenter](https://appcenter.elementary.io/badge.svg)](https://appcenter.elementary.io/com.github.torikulhabib.niki) 
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/niki)
 
